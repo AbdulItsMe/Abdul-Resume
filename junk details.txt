@@ -1,0 +1,56 @@
+<div class="d-flex flex-column flex-md-row justify-content-between mb-3">
+        <div class="text-lg-left">
+            <h3 class="cta-title mb-0"">VIRTUSA</h3>
+            <p class="cta-text subheading mb-3">Associate Engineer Technology</p>
+            <p class = "cta-text">It is an US based company, where I got an opportunity to learn Mainframes and later I moved to 
+            Quality Assurance Team.</p>
+        </div>
+        <div class="text-md-right">
+            <p class="cta-text">December 2017 - Present</p>
+        </div>
+        </div>  
+        
+        <div class="d-flex flex-column flex-md-row justify-content-between mb-3">
+        <div class="text-lg-left">
+            <h3 class="cta-title mb-0"">ICUBE SOLUTIONS</h3>
+            <p class="cta-text subheading mb-3">Software Developer</p>
+            <p class = "cta-text">It is a startup company, where I started to learn end to end process of ERP Development. Not only I learned 
+              C#.Net, <br/>I also mastered my skills in SQL concepts and developing ERP application.</p>
+        </div>
+        <div class="text-md-right">
+            <p class="cta-text">August 2017 - December 2017</p>
+        </div>
+        </div>  
+
+        <div class ="d-flex flex-column flex-md-row justify-content-between mb-3">
+        <div class="text-lg-left">
+            <h3 class="cta-title mb-0"">CMA CGM SSC</h3>
+            <p class="cta-text subheading mb-3">Patner Information Management (PIM)</p>
+            <p class = "cta-text">I've joined in CMA CGM as a fresher, and worked as a partner administrator. My role is to keep
+            the partner's data </br>out of OFAC List and verify their process as per the country regulations.</p>
+        </div>
+        <div class="text-md-right">
+            <p class="cta-text">August 2016 - August 2017</p>
+        </div>
+        </div>
+
+
+Trebuchet MS;
+
+
+#experience .timeline-ico i {
+  position: relative;
+  left: .05rem;
+  top: .2rem;
+  height: 3.8rem;
+  width:3.8rem;
+}
+font-family: "Florence", cursive;
+<h2><b>About Me</b></h2>
+
+
+
+        <header class="section-header">
+          
+          <h3 class="mb-0">EXPERIENCE</h3>
+        </header>
