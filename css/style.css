@@ -1006,3 +1006,8 @@ p.lead {
 #awards{
   padding-bottom: 30px;
 }
+
+.interesticon i{
+  font-size: 1.6rem;
+  line-height: 3.5rem;
+}
