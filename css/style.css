@@ -240,9 +240,9 @@ p.lead {
 
 #intro {
   
-  background: url("../img/intro-bg.jpg")  no-repeat fixed right bottom;
+  background: url("../img/intro-bg.jpg")  no-repeat fixed;
   background-size: cover;
-  min-height: 720px;
+  min-height: 780px;
   position: relative;
 }
 
@@ -256,7 +256,7 @@ p.lead {
 
 #intro .intro-info h3 {
   color: #cc005f;
-  font-family: "poppins-bold", sans-serif;
+  font-family: poppins-bold, sans-serif;
   font-size: 1.8rem;
   line-height: 1.565;
   margin-bottom: 0px;
@@ -267,7 +267,7 @@ p.lead {
 
 #intro .intro-info h2 {
   color: #413e66;
-  font-family: "poppins-bold", sans-serif;
+  font-family: poppins-bold, sans-serif;
   margin-bottom: 30px;
   font-size: 28px;
   text-transform: uppercase;
