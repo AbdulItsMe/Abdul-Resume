@@ -239,9 +239,13 @@ p.lead {
 --------------------------------------------------------------*/
 
 #intro {
-  
+  display: block;
+  position: fixed;
   background: url("../img/intro-bg.jpg")  no-repeat fixed;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   min-height: 780px;
   position: relative;
 }
