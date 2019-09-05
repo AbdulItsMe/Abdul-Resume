@@ -239,14 +239,10 @@ p.lead {
 --------------------------------------------------------------*/
 
 #intro {
-  left: 0;
-  top: 0;
-  z-index: -10;
-  display: block;
+  z-index: -1;
   position: fixed;
-  background: url("../img/intro-bg.jpg")  no-repeat fixed;
+  background: url("../img/intro-bg.jpg")  no-repeat center center fixed;
   background-size: cover;
-  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
